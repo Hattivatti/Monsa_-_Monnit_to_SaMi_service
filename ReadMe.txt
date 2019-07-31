@@ -1,0 +1,2 @@
+Ohjelman asetukset löytyy appconfigista. Vaatii monnitin käyttäjätunnuksen, salasanan ja network id:n. Viennin toistoväli minuutteina.
+Projekti tarvitsee visual studio 2015 installer projects -paketin.
